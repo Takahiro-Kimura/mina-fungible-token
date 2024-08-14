@@ -31,5 +31,9 @@
     "useDefineForClassFields": false
   },
   "exclude": ["node_modules", "target"],
-  "include": ["."]
+  "include": ["."],
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": "node"
+  }
 }

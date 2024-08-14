@@ -1,4 +1,3 @@
-MYTKN
 alexa
 approvable
 devnet
@@ -8,16 +7,18 @@ feepayer
 harrysolovay
 kantp
 keypair
+Lightnet
 mdbook
 merkle
 michaelfbryan
 mina
 mintable
+MYTKN
+Nami
 peaceiris
 qwadratic
+Rebasable
 struct
 typecheck
 yzhang
 zkapp
-Lightnet
-Rebasable
